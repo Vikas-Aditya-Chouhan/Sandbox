@@ -1,3 +1,5 @@
-HHiiiii!!! This is a sample text. Hope you like it!!!
+HHiiiii!!! This is a sample texts. Hope you like it!!!
 
-This is will be the second line of code for the text that I have created and let us see how things are and how it'll show up	
+Adding a new line of code for this text
+
+This is will be the second line of code for the text that I have created and let us see how things are and how it'll show up.	
